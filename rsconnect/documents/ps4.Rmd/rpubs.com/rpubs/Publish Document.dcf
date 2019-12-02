@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/555440/6cb6af189de44e6c85455d6839f2b4b5
+bundleId: https://api.rpubs.com/api/v1/document/555440/6cb6af189de44e6c85455d6839f2b4b5
+url: http://rpubs.com/philipah/555440/edit
+when: 1575272796.76087
